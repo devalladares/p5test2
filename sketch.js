@@ -22,7 +22,7 @@ function setup() {
 
   runSketch();
 
-  randomboi = createButton("Random");
+  randomboi = createButton("Randomise");
   randomboi.mousePressed(runSketch);
   randomboi.size(width, 40);
 
