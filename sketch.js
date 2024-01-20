@@ -18,7 +18,7 @@ let outerRadius = ringNumber * gap + emptySpace2;
 let yHeight = outerRadius;
 
 function setup() {
-  createCanvas(600,560);
+  createCanvas(500,460);
 
   runSketch();
 
